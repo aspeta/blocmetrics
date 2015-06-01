@@ -12,6 +12,8 @@ gem 'rails', '4.1.9'
  group :development do
    gem 'sqlite3'
    end
+# CSS Bootstrap
+gem 'bootstrap-sass'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
